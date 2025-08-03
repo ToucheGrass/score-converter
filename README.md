@@ -5,6 +5,7 @@ Convert your CloverPit's score into a valid time for Speedrun.com leaderboard.
 ## Content:
 
 - `scoreconverter.exe` : main .exe
+- `README.md` : App's documentation
 
 ## Usage
 
